@@ -1,0 +1,8 @@
+﻿# Go binaries
+*.exe
+bin/
+
+# Project test artifacts & archives
+*.lca
+sample.txt
+restored.txt
